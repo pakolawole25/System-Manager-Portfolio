@@ -23,3 +23,69 @@ As an accomplished IT Systems Manager, I specialize in designing, deploying, and
 - **Cybersecurity & Endpoint Protection**  
 - **Disaster Recovery Planning & BCP**  
 - **Firewall / VPN / IDS Configuration**
+
+---
+
+## 📌 Featured Projects
+
+### 🔐 Marriott Secure Converged Network Transformation Project
+
+Migrated legacy infrastructure(Servers, distribution switches, fiber optic backbone links etc.) to a hybrid cloud (Marriott private cloud + On-prem). converted flat hotel LAN infrastructre design to a Converged and secure network with VLANS etc. Implemented Cisco ASA firewall within Marriott international network.
+
+**Project Screenshots:**
+
+!Latest HP servers, firewall, Cisco edge and distribution switches upgraded(./assets/project1-1.jpg)  
+*Latest HP servers Firewall installed and configured*
+
+!PCI DSS compliant Upgrade to Opera property management training including staff training on new features(./assets/project1-2.png)  
+*Training and Project planning Conference room*
+
+---
+
+### 🏨 Hospitality IT Revamp
+
+Deployed end-to-end property management systems (PMS, POS, VoIP). Reduced support tickets by 30% via automated Helpdesk.
+
+**Project Screenshots:**
+
+![PMS Integration Overview](./assets/project2-1.png)  
+*Property Management System Dashboard*
+
+![Automated Ticket System](./assets/project2-2.png)  
+*IT Helpdesk & Self-Service Portal Interface*
+
+---
+
+### 🔐 Secure Converged Network Transformation Project
+
+Migrated legacy infrastructure to a hybrid cloud (Azure + On-prem). Implemented Fortinet perimeter security and achieved 99.98% uptime.
+
+**Project Screenshots:**
+
+![Firewall Configuration Interface](./assets/project1-1.png)  
+*Fortinet Edge Firewall Console*
+
+![Azure Network Topology](./assets/project1-2.png)  
+*Hybrid Cloud Deployment Diagram*
+
+---
+
+## 📚 Certifications
+
+- Google Cybersecurity Professional Certificate 
+- ISC2 Cybersecurity Certificate (CC) 
+- Microsoft Certified: Solutions Expert (MCSE)   
+- Oracle Database 11G Certified professional (OCP)   
+- CompTIA Security+  
+- Cisco CCNA
+- IBM Customer Engagement: Problem Solving and process Controls Certificate 
+
+---
+
+## 📫 Contact
+
+📧 patrickd.kolawole@yahoo.com  
+🌐 linkedin.com: http://ng.linkedin.com/in/PatrickDKolawole  
+🐙 GitHub: [github.com/patrickkolawole](https://github.com/patrickkolawole)
+
+---
