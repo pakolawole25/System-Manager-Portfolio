@@ -8,9 +8,7 @@ Experienced IT Systems Leader | Infrastructure & Network Security | Cloud Soluti
 ## About Me
 **Profile***
 
-![](assets/35mmX45mm.jpg)
-
-<img src="assets/35mmX45mm.jpg">
+<img src="assets/35mmX45mm.jpg" width="100">
 
 
 ![PatrickDareKolawole](/assets/35mmX45mm.jpg)  
