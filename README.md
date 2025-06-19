@@ -34,7 +34,7 @@ Migrated legacy infrastructure(Servers, distribution switches, fiber optic backb
 
 **Project Screenshots:**
 
-![Latest HP servers, firewall, Cisco edge and distribution switches upgraded](./assets/project1-1.jpg)  
+![Latest HP servers- firewalls-Cisco edge and distribution switches upgraded](./assets/project1-1.jpg)  
 *Latest HP servers Firewall installed and configured*
 
 ![PCI DSS compliant Upgrade to Opera property management training including staff training on new features](./assets/project1-2.jpg)  
@@ -48,10 +48,10 @@ Deployed end-to-end property management systems (PMS, POS, VoIP). Reduced suppor
 
 **Project Screenshots:**
 
-![PMS Integration Overview](./assets/project2-1.png)  
+![PMS Integration Overview](./assets/project2-1.jpg)  
 *Property Management System Dashboard*
 
-![Automated Ticket System](./assets/project2-2.png)  
+![Automated Ticket System](./assets/project2-2.jpg)  
 *IT Helpdesk & Self-Service Portal Interface*
 
 ---
@@ -62,10 +62,10 @@ Migrated legacy infrastructure to a hybrid cloud (Azure + On-prem). Implemented 
 
 **Project Screenshots:**
 
-![Firewall Configuration Interface](./assets/project1-1.png)  
+![Firewall Configuration Interface](./assets/project1-1.jpg)  
 *Fortinet Edge Firewall Console*
 
-![Azure Network Topology](./assets/project1-2.png)  
+![Azure Network Topology](./assets/project1-2.jpg)  
 *Hybrid Cloud Deployment Diagram*
 
 ---
@@ -86,6 +86,6 @@ Migrated legacy infrastructure to a hybrid cloud (Azure + On-prem). Implemented 
 
 📧 patrickd.kolawole@yahoo.com  
 🌐 linkedin.com: http://ng.linkedin.com/in/PatrickDKolawole  
-🐙 GitHub: [github.com/patrickkolawole](https://github.com/patrickkolawole)
+🐙 GitHub: [github.com/pakolawole25](https://github.com/pakolawole25)
 
 ---
