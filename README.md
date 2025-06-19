@@ -7,7 +7,9 @@ Experienced IT Systems Leader | Infrastructure & Network Security | Cloud Soluti
 
 ## About Me
 **Profile***
-![](assets/profile.jpg)
+
+![](assets/profile.png)
+
 <img src="assets/profile.jpg" width="100">
 
 
