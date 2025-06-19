@@ -34,10 +34,10 @@ Migrated legacy infrastructure(Servers, distribution switches, fiber optic backb
 
 **Project Screenshots:**
 
-![Latest HP servers, firewall, Cisco edge and distribution switches upgraded](/pakolawole25/system-Manager-Portfolio/assets/project1-1.jpg)  
+![Latest HP servers, firewall, Cisco edge and distribution switches upgraded](./assets/project1-1.jpg)  
 *Latest HP servers Firewall installed and configured*
 
-![PCI DSS compliant Upgrade to Opera property management training including staff training on new features](/pakolawole25/system-Manager-Portfolio/assets/project1-2.jpg)  
+![PCI DSS compliant Upgrade to Opera property management training including staff training on new features](./assets/project1-2.jpg)  
 *Training and Project planning Conference room*
 
 ---
