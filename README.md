@@ -9,7 +9,7 @@ Experienced IT Systems Leader | Infrastructure & Network Security | Cloud Soluti
 **Profile Picture:**
 
 ![Patrick Dare Kolawole](./assets/profile.jpg)  
-*Customer Focused, Experienced and Reliable Project delivery Agent*
+*Customer Focused, Experienced and Reliable IT Project delivery Agent*
 
 As an accomplished IT Systems Manager, I specialize in designing, deploying, and optimizing secure and scalable infrastructure solutions across on-premise and cloud environments. My track record includes leading cross-functional teams, implementing ITIL-based service frameworks, and managing security posture for financial, hospitality, and enterprise environments.
 
