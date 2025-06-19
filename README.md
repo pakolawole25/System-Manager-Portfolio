@@ -7,6 +7,8 @@ Experienced IT Systems Leader | Infrastructure & Network Security | Cloud Soluti
 
 ## About Me
 
+<img src="assets/profile.jpg">
+
 ![PatrickDareKolawole](/assets/profile.jpg)  
 *Customer Focused, Experienced and Reliable IT Project delivery Agent*
 
