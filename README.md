@@ -75,6 +75,17 @@ Migrated legacy infrastructure to a hybrid cloud (Azure + On-prem). Implemented 
 
 ---
 
+## 🏆 Awards & Achievements
+
+![10 years of Excellence Award](./assets/project1-1.jpg)  
+*10Years of Excellence Award at Marriott delivered by Area Senior IT manager and General Manager*
+- 🥇 **IT Leadership Excellence Award** – 2023, GlobalTech Summit
+- 🌍 **Cloud Migration Pioneer** – Recognized for migrating 10K+ user environments to AWS/Azure
+- 🛡️ **Zero Downtime Champion** – 99.999% uptime achieved for mission-critical enterprise apps
+- 💼 **Mentor of the Year** – 2022, for coaching junior IT engineers and analysts
+
+  
+
 ## 📚 Certifications
 
 - Google Cybersecurity Professional Certificate 
