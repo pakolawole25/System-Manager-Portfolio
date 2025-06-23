@@ -79,7 +79,7 @@ Migrated legacy infrastructure to a hybrid cloud (Azure + On-prem). Implemented 
 
 ![10 years of Excellence Award](./assets/projectAward.jpg)  
 
-<img src="assets/projectAward.jpg">
+<img src="assets/Award.jpg">
 
 *10Years of Excellence Award at Marriott delivered by Area Senior IT manager and General Manager*
 - 🥇 **IT Leadership Excellence Award** – 2023, GlobalTech Summit
