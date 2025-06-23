@@ -77,7 +77,7 @@ Migrated legacy infrastructure to a hybrid cloud (Azure + On-prem). Implemented 
 
 ## 🏆 Awards & Achievements
 
-![10 years of Excellence Award](./assets/project1-1.jpg)  
+![10 years of Excellence Award](./assets/projectAward.jpg)  
 *10Years of Excellence Award at Marriott delivered by Area Senior IT manager and General Manager*
 - 🥇 **IT Leadership Excellence Award** – 2023, GlobalTech Summit
 - 🌍 **Cloud Migration Pioneer** – Recognized for migrating 10K+ user environments to AWS/Azure
