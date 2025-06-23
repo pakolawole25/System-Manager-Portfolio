@@ -77,7 +77,6 @@ Migrated legacy infrastructure to a hybrid cloud (Azure + On-prem). Implemented 
 
 ## 🏆 Awards & Achievements
 
-![10 years of Excellence Award](./assets/projectAward.jpg)  
 
 <img src="assets/Award.jpg">
 
