@@ -54,7 +54,7 @@ Deployed end-to-end property management systems (PMS, POS, VoIP). Reduced suppor
 **Project Screenshots:**
 
 ![PMS Integration Overview](./assets/Project1.JPG)  
-*Property Core Network Revamp icnluding fiber optic backbone upgrade, WIFI cloud Upgrade, Servers and distribution switches upgrade*
+*Property Core Network Revamp including fiber optic backbone upgrade, WIFI cloud Upgrade, Servers and distribution switches upgrade*
 
 ![Automated Ticket System](./assets/project1-2.jpg)  
 *Training and Project planning Conference room*
