@@ -33,16 +33,16 @@ As an accomplished IT Systems Manager, I specialize in designing, deploying, and
 
 ## 📌 Featured Projects
 
-### 🔐 Marriott Secure Converged Network Transformation Project
+### 🔐 Marriott Secure Converged Network Transformation and integration with Starwood Global network Active Directory - Project
 
 Migrated legacy infrastructure(Servers, distribution switches, fiber optic backbone links etc.) to a hybrid cloud (Marriott private cloud + On-prem). converted flat hotel LAN infrastructre design to a Converged and secure network with VLANS etc. Implemented Cisco ASA firewall within Marriott international network.
 
 **Project Screenshots:**
 
-![Latest HP servers- firewalls-Cisco edge and distribution switches upgraded](./assets/project1-1.jpg)  
-*Latest HP servers Firewall installed and configured*
+![Latest HP servers- firewalls-Cisco edge and distribution switches upgraded](./assets/MarriottEMEAintegration1.jpg)  
+*Latest HP servers Firewall installed and configured with VLANs and other new security features*
 
-![PCI DSS compliant Upgrade to Opera property management training including staff training on new features](./assets/project1-2.jpg)  
+![PCI DSS compliant Upgrade to Opera property management training including staff training on new features](./assets/MarriottEMEAintegration2.jpg)  
 *Training and Project planning Conference room*
 
 ---
@@ -53,11 +53,11 @@ Deployed end-to-end property management systems (PMS, POS, VoIP). Reduced suppor
 
 **Project Screenshots:**
 
-![PMS Integration Overview](./assets/project2-1.jpg)  
-*Property Management System Dashboard*
+![PMS Integration Overview](./assets/project1-1.jpg)  
+*Property Core Network Revamp icnluding fiber optic backbone upgrade, WIFI cloud Upgrade, Servers and distribution switches upgrade*
 
-![Automated Ticket System](./assets/project2-2.jpg)  
-*IT Helpdesk & Self-Service Portal Interface*
+![Automated Ticket System](./assets/project1-2.jpg)  
+*Training and Project planning Conference room*
 
 ---
 
