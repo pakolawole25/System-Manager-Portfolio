@@ -50,7 +50,7 @@ Led the secure transformation and integration of Marriott’s legacy IT infrastr
 
 ### 🏨 Hospitality IT Infrastructure Revamp
 
-Redesigned and upgraded core hospitality systems and infrastructure across multiple sites. Deployed enterprise-grade PMS, VoIP, POS, and PABX systems to streamline operations. Automated incident management with ServiceNow, reducing support load by 30%. Upgraded network backbone with high-availability fiber, new-generation switches, and scalable Wi-Fi coverage.
+Project Overview: Redesigned and upgraded core hospitality systems and infrastructure across multiple sites. Deployed enterprise-grade PMS, VoIP, POS, and PABX systems to streamline operations. Automated incident management with ServiceNow, reducing support load by 30%. Upgraded network backbone with high-availability fiber, new-generation switches, and scalable Wi-Fi coverage.
 
 **Project Screenshots:**
 
@@ -63,8 +63,8 @@ Redesigned and upgraded core hospitality systems and infrastructure across multi
 ---
 
 ### 🔐 Secure Converged Network Transformation Project
-Project Overview:
-Directed the migration of on-premise systems to a secure hybrid cloud model. Integrated Fortinet next-gen firewalls, redefined uptime SLAs, and applied governance policies. Key workloads and applications were rehosted to achieve 99.98% uptime while enhancing data protection, compliance, and remote accessibility.
+Project Overview: Directed the migration of on-premise systems to a secure hybrid cloud model. Integrated Fortinet next-gen firewalls, redefined uptime SLAs, and applied governance policies. Key workloads and applications were rehosted to achieve 99.98% uptime while enhancing data protection, compliance, and remote accessibility.
+
 **Project Screenshots:**
 
 ![Firewall Configuration Interface](./assets/project1-1.jpg)  
