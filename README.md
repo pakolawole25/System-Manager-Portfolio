@@ -33,7 +33,7 @@ As an accomplished IT Systems Manager, I specialize in designing, deploying, and
 
 ## 📌 Featured Projects
 
-### 🔐 Marriott Secure Converged Network Transformation and integration with Starwood Global network Active Directory - Project
+### 🔐 Marriott Secure Converged Network Transformation
 
 Project Overview:
 Led the secure transformation and integration of Marriott’s legacy IT infrastructure with Starwood’s global network. Re-architected flat LANs into segmented VLANs, integrated Active Directory domains, and deployed Cisco ASA for firewall protection. Delivered a resilient hybrid cloud (on-prem + Marriott private cloud) while ensuring compliance, availability, and secure access across departments.
