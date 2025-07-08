@@ -35,7 +35,8 @@ As an accomplished IT Systems Manager, I specialize in designing, deploying, and
 
 ### 🔐 Marriott Secure Converged Network Transformation and integration with Starwood Global network Active Directory - Project
 
-Migrated legacy infrastructure(Servers, distribution switches, fiber optic backbone links etc.) to a hybrid cloud (Marriott private cloud + On-prem). converted flat hotel LAN infrastructre design to a Converged and secure network with VLANS etc. Implemented Cisco ASA firewall within Marriott international network.
+Project Overview:
+Led the secure transformation and integration of Marriott’s legacy IT infrastructure with Starwood’s global network. Re-architected flat LANs into segmented VLANs, integrated Active Directory domains, and deployed Cisco ASA for firewall protection. Delivered a resilient hybrid cloud (on-prem + Marriott private cloud) while ensuring compliance, availability, and secure access across departments.
 
 **Project Screenshots:**
 
@@ -47,9 +48,9 @@ Migrated legacy infrastructure(Servers, distribution switches, fiber optic backb
 
 ---
 
-### 🏨 Hospitality IT Revamp
+### 🏨 Hospitality IT Infrastructure Revamp
 
-Deployed end-to-end property management systems (PMS, POS, VoIP). Reduced support tickets by 30% via automated Helpdesk.
+Redesigned and upgraded core hospitality systems and infrastructure across multiple sites. Deployed enterprise-grade PMS, VoIP, POS, and PABX systems to streamline operations. Automated incident management with ServiceNow, reducing support load by 30%. Upgraded network backbone with high-availability fiber, new-generation switches, and scalable Wi-Fi coverage.
 
 **Project Screenshots:**
 
@@ -62,9 +63,8 @@ Deployed end-to-end property management systems (PMS, POS, VoIP). Reduced suppor
 ---
 
 ### 🔐 Secure Converged Network Transformation Project
-
-Migrated legacy infrastructure to a hybrid cloud (Azure + On-prem). Implemented Fortinet perimeter security and achieved 99.98% uptime.
-
+Project Overview:
+Directed the migration of on-premise systems to a secure hybrid cloud model. Integrated Fortinet next-gen firewalls, redefined uptime SLAs, and applied governance policies. Key workloads and applications were rehosted to achieve 99.98% uptime while enhancing data protection, compliance, and remote accessibility.
 **Project Screenshots:**
 
 ![Firewall Configuration Interface](./assets/project1-1.jpg)  
@@ -81,10 +81,8 @@ Migrated legacy infrastructure to a hybrid cloud (Azure + On-prem). Implemented 
 <img src="assets/Award.jpg">
 
 *10Years of Excellence Award at Marriott delivered by Area Senior IT manager and General Manager*
-- 🥇 **IT Leadership Excellence Award** – 2023, GlobalTech Summit
-- 🌍 **Cloud Migration Pioneer** – Recognized for migrating 10K+ user environments to AWS/Azure
 - 🛡️ **Zero Downtime Champion** – 99.999% uptime achieved for mission-critical enterprise apps
-- 💼 **Mentor of the Year** – 2022, for coaching junior IT engineers and analysts
+
 
   
 
