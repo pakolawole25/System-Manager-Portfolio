@@ -38,6 +38,13 @@ As an accomplished IT Systems Manager, I specialize in designing, deploying, and
 Project Overview:
 Led the secure transformation and integration of Marriott’s legacy IT infrastructure with Starwood’s global network. Re-architected flat LANs into segmented VLANs, integrated Active Directory domains, and deployed Cisco ASA for firewall protection. Delivered a resilient hybrid cloud (on-prem + Marriott private cloud) while ensuring compliance, availability, and secure access across departments.
 
+
+| Project                                      | Skills                                                                 | Tools                           | Link                              |
+|---------------------------------------------|------------------------------------------------------------------------|----------------------------------|------------------------------------|
+| Building a Secure Enterprise Network         | Network segmentation, Domain integration, Security architecture       | Cisco ASA, HP ProLiant, AD, VLANs | [Marriott SIEM Project](#)         |
+
+
+
 **Project Screenshots:**
 
 ![Latest HP servers- firewalls-Cisco edge and distribution switches upgraded](./assets/MarriottEMEAintegration1.jpg)  
