@@ -59,6 +59,11 @@ Led the secure transformation and integration of Marriott’s legacy IT infrastr
 
 Project Overview: Redesigned and upgraded core hospitality systems and infrastructure across multiple sites. Deployed enterprise-grade PMS, VoIP, POS, and PABX systems to streamline operations. Automated incident management with ServiceNow, reducing support load by 30%. Upgraded network backbone with high-availability fiber, new-generation switches, and scalable Wi-Fi coverage.
 
+| Project                             | Skills                                                                  | Tools                             | Link                          |
+|------------------------------------|-------------------------------------------------------------------------|------------------------------------|-------------------------------|
+| Hospitality Infrastructure Upgrade | System integration, Helpdesk automation, Unified communications         | ServiceNow, Avaya, Cisco, Aruba    | [IT Revamp Project](#)        |
+
+
 **Project Screenshots:**
 
 ![PMS Integration Overview](./assets/Project1.JPG)  
@@ -71,6 +76,11 @@ Project Overview: Redesigned and upgraded core hospitality systems and infrastru
 
 ### 🔐 Secure Converged Network Transformation Project
 Project Overview: Directed the migration of on-premise systems to a secure hybrid cloud model. Integrated Fortinet next-gen firewalls, redefined uptime SLAs, and applied governance policies. Key workloads and applications were rehosted to achieve 99.98% uptime while enhancing data protection, compliance, and remote accessibility.
+
+| Project                                  | Skills                                                                 | Tools                                | Link                        |
+|-----------------------------------------|------------------------------------------------------------------------|---------------------------------------|-----------------------------|
+| Hybrid Cloud & Security Transformation  | Cloud migration, Firewall policy design, Infrastructure resilience     | Azure, Fortinet, Windows Server       | [Hybrid Cloud Project](#)   |
+
 
 **Project Screenshots:**
 
