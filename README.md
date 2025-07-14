@@ -33,6 +33,44 @@ As an accomplished IT Systems Manager, I specialize in designing, deploying, and
 
 ## 📌 Featured Projects
 
+## Cybersecurity Capstone Projects (Darey.io):
+
+Project 1: Malicious Network Traffic Analysis via Wireshark
+Project Overview:
+Investigated a simulated malware infection through network traffic analysis in Wireshark. Identified Indicators of Compromise (IOCs), reconstructed the infection chain, and produced a professional incident response report following SOC protocols. Demonstrated proficiency in traffic analysis, threat hunting, and malware behavior profiling.
+| Project                      | Skills                                   | Tools               | Link                     |
+|-------------------------------|------------------------------------------|----------------------|---------------------------|
+| Wireshark Traffic Analysis    | Network Forensics, Malware Analysis, IOC Identification | Wireshark, OSINT       | [Project 1 Link](#)        |
+
+
+Project 2: Cyber-Resilient Network Design with Cisco Packet Tracer
+Project Overview:
+Designed and implemented a secure, segmented network infrastructure for a simulated company using Cisco Packet Tracer. Applied VLANs, ACLs, Layer 2/3 security controls, and Wi-Fi hardening. Integrated logging and monitoring to meet compliance and security best practices.
+
+| Project                           | Skills                                               | Tools             | Link                  |
+|----------------------------------|------------------------------------------------------|--------------------|------------------------|
+| Secure Network Architecture      | Network Design, VLANs, ACLs, Layer 2 Security, Wi-Fi Hardening | Cisco Packet Tracer | [Project 2 Link](#)    |
+
+
+Project 3: Role-Based Access Control (RBAC) on Linux/Windows
+Project Overview:
+Engineered a secure access control system using RBAC principles on Linux and Windows environments. Created user roles, groups, and directory structures aligned with least-privilege access policies. Strengthened organizational data security through NTFS permissions, shared folder controls, and audit readiness.
+
+| Project                     | Skills                                     | Tools                 | Link                |
+|------------------------------|--------------------------------------------|------------------------|----------------------|
+| RBAC & Secure File Access    | Access Control, Directory Permissions, Group Policy | Linux, Windows Server  | [Project 3 Link](#)  |
+
+
+Project 4: Simulated Phishing Attack Incident Response
+Project Overview:
+Led incident response for a complex phishing attack simulation using real-world EDR alerts, email logs, and SOC workflows. Identified attack patterns, mapped IOCs, and provided containment, eradication, and recovery strategies aligned with NIST incident response lifecycle.
+
+| Project                              | Skills                                          | Tools                    | Link                   |
+|--------------------------------------|-------------------------------------------------|----------------------------|-------------------------|
+| Advanced Phishing IR Simulation      | Incident Response, Threat Analysis, IOC Mapping, NIST Framework | CrowdStrike, Proofpoint, M365 | [Project 4 Link](#)     |
+
+
+
 ### 🔐 Marriott Secure Converged Network Transformation
 
 Project Overview:
