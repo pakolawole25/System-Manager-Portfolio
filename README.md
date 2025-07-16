@@ -40,7 +40,7 @@ Project Overview:
 Investigated a simulated malware infection through network traffic analysis in Wireshark. Identified Indicators of Compromise (IOCs), reconstructed the infection chain, and produced a professional incident response report following SOC protocols. Demonstrated proficiency in traffic analysis, threat hunting, and malware behavior profiling.
 | Project                      | Skills                                   | Tools               | Link                     |
 |-------------------------------|------------------------------------------|----------------------|---------------------------|
-| Wireshark Traffic Analysis    | Network Forensics, Malware Analysis, IOC Identification | Wireshark, OSINT       | [Project 1 Link](#)        |
+| Wireshark Traffic Analysis    | Network Forensics, Malware Analysis, IOC Identification | Wireshark, OSINT       | [Project 1 Link](./assets/Project_1_Wireshark_Traffic_Analysis_README.md)        |
 
 
 Project 2: Cyber-Resilient Network Design with Cisco Packet Tracer
@@ -49,7 +49,7 @@ Designed and implemented a secure, segmented network infrastructure for a simula
 
 | Project                           | Skills                                               | Tools             | Link                  |
 |----------------------------------|------------------------------------------------------|--------------------|------------------------|
-| Secure Network Architecture      | Network Design, VLANs, ACLs, Layer 2 Security, Wi-Fi Hardening | Cisco Packet Tracer | [Project 2 Link](#)    |
+| Secure Network Architecture      | Network Design, VLANs, ACLs, Layer 2 Security, Wi-Fi Hardening | Cisco Packet Tracer | [Project 2 Link](./assets/Project_2_Secure_Network_Architecture_README.md)    |
 
 
 Project 3: Role-Based Access Control (RBAC) on Linux/Windows
@@ -58,7 +58,7 @@ Engineered a secure access control system using RBAC principles on Linux and Win
 
 | Project                     | Skills                                     | Tools                 | Link                |
 |------------------------------|--------------------------------------------|------------------------|----------------------|
-| RBAC & Secure File Access    | Access Control, Directory Permissions, Group Policy | Linux, Windows Server  | [Project 3 Link](#)  |
+| RBAC & Secure File Access    | Access Control, Directory Permissions, Group Policy | Linux, Windows Server  | [Project 3 Link](./assets/Project_3_RBAC_Secure_File_Access_README.md)  |
 
 
 Project 4: Simulated Phishing Attack Incident Response
@@ -67,7 +67,7 @@ Led incident response for a complex phishing attack simulation using real-world 
 
 | Project                              | Skills                                          | Tools                    | Link                   |
 |--------------------------------------|-------------------------------------------------|----------------------------|-------------------------|
-| Advanced Phishing IR Simulation      | Incident Response, Threat Analysis, IOC Mapping, NIST Framework | CrowdStrike, Proofpoint, M365 | [Project 4 Link](#)     |
+| Advanced Phishing IR Simulation      | Incident Response, Threat Analysis, IOC Mapping, NIST Framework | CrowdStrike, Proofpoint, M365 | [Project 4 Link](./assets/Project_4_Phishing_Incident_Response_README.md)     |
 
 
 
