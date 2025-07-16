@@ -1,6 +1,6 @@
 # Patrick D. Kolawole | IT Systems Manager
 
-Experienced IT Systems Leader | Infrastructure & Network Security | Cloud and AI Solutions   
+Experienced IT Project Manager | Infrastructure & Network Security | Cloud and AI Solutions   
 💼 10+ years transforming business operations through strategic IT management and cyber-resilience
 
 ---
