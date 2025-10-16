@@ -85,7 +85,7 @@ Led the secure transformation and integration of Marriott’s legacy IT infrastr
 
 **Project Screenshots:**
 
-![Latest HP servers- firewalls-Cisco edge and distribution switches upgraded](./assets/MarriottEMEAintegration1.jpg)  
+![Latest HP servers- firewalls-Cisco edge and distribution switches upgraded](./assets/MarriottIntegrationP1.JPG)  
 *Latest HP servers Firewall installed and configured with VLANs and other new security features*
 
 ![PCI DSS compliant Upgrade to Opera property management training including staff training on new features](./assets/MarriottEMEAintegration2.jpg)  
@@ -103,6 +103,12 @@ Project Overview: Redesigned and upgraded core hospitality systems and infrastru
 
 
 **Project Screenshots:**
+
+![PMS Integration Overview](./assets/StarwoodConvergedNetworkP1.JPG)  
+*Property Core Network Revamp including fiber optic backbone upgrade, WIFI cloud Upgrade, Servers and distribution switches upgrade*
+
+![PMS Integration Overview](./assets/StarwoodConvergedNetworkP2.JPG)  
+*Property Core Network Revamp including fiber optic backbone upgrade, WIFI cloud Upgrade, Servers and distribution switches upgrade*
 
 ![PMS Integration Overview](./assets/Project1.JPG)  
 *Property Core Network Revamp including fiber optic backbone upgrade, WIFI cloud Upgrade, Servers and distribution switches upgrade*
