@@ -113,8 +113,6 @@ Project Overview: Redesigned and upgraded core hospitality systems and infrastru
 ![PMS Integration Overview](./assets/Project1.JPG)  
 *Property Core Network Revamp including fiber optic backbone upgrade, WIFI cloud Upgrade, Servers and distribution switches upgrade*
 
-![Automated Ticket System](./assets/project1-2.jpg)  
-*Training and Project planning Conference room*
 
 ---
 
